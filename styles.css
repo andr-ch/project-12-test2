@@ -273,27 +273,31 @@ footer.attribution {
     }
 }
 
-@media only screen and (max-width: 1440px) {
+@media only screen and (max-width: 1441px) {
     .container-fluid {
-        margin-left: 5%;
+        margin-left: 5% !important;
     }
     
     .row {
-        margin-left: -14px;
+        margin-left: -14px !important;
     }
 
     .star-rating {
-        margin-left: 4%;
-        margin-top: 3%;
+        margin-left: 4% !important;
+        margin-top: 3% !important;
     }
 
     .star-rating-item {
-        max-width: 100%;
+        max-width: 100% !important;
     }
 
     .feedback-item {
-        max-width: 30%;
-        margin-right: 3%;
+        max-width: 31% !important;
+        margin-right: 2% !important;
+    }
+
+    .profile-details {
+        max-width: 29%;
     }
 
 }
