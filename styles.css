@@ -273,7 +273,7 @@ footer.attribution {
     }
 }
 
-@media only screen and (max-width: 1541px) {
+/* @media only screen and (max-width: 1541px) {
     .container-fluid {
         margin-left: 5% !important;
         width: 106% !important;
@@ -306,5 +306,5 @@ footer.attribution {
         top: 59px;
         left: 0;
     }
-
 }
+*/
